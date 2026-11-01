@@ -30,3 +30,4 @@
 *.xlsm binary
 *.obj binary
 *.bin binary
+LINKLIB.PDSE/* git-encoding=BINARY binary

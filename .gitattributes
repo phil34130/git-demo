@@ -3,6 +3,8 @@
 .gitattributes    git-encoding=utf-8 zos-working-tree-encoding=iso8859-1
 .gitignore        git-encoding=utf-8 zos-working-tree-encoding=IBM-1047
 .zigi/*           git-encoding=utf-8 zos-working-tree-encoding=IBM-1047
+*.text working-tree-encoding=IBM-1047 git-encoding=utf-8
+*.txt  working-tree-encoding=IBM-1047 git-encoding=utf-8
 *.docm binary
 *.docx binary
 *.doc binary
